@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/Imge">
+        <file>Imge/Icon/barCode.png</file>
+        <file>Imge/Icon/frame.png</file>
+        <file>Imge/Icon/Line .png</file>
+        <file>Imge/Icon/picture.png</file>
+        <file>Imge/Icon/Text.png</file>
+        <file>Imge/Icon/QRCode.png</file>
+    </qresource>
+</RCC>
